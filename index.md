@@ -3,8 +3,6 @@ layout: default
 title: 有限会社プロゲット採用情報
 ---
 
-# 有限会社プロゲット
-
 ![PRO GETTO LOGO](image/PRO_GETTO_LOGO.png)
 
 ## 会社概要
