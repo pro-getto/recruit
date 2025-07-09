@@ -3,7 +3,7 @@ layout: default
 title: Progetto CO., Ltd.
 ---
 
-<img src = "image/PRO_GETTO_LOGO.png" width = "50%"
+<img src = "image/PRO_GETTO_LOGO.png" width = "50%">
 
 ## 会社概要
 
