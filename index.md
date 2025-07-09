@@ -32,8 +32,8 @@ title: Progetto CO., Ltd.
 
 <a name="anchor-info"></a>
 ## 事業内容
-有限会社プロゲット(Progetto CO., Ltd.)は、
-「progettazione = プロジェクトを考えて実践する」客体として、
+有限会社プロゲット(Progetto CO., Ltd.)は、  
+「progettazione = プロジェクトを考えて実践する」客体として、  
 製品、試作品の企画・設計・製作の受託開発を行っています。
 
 ### 領域
