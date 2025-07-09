@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 有限会社プロゲット採用情報
+title: Progetto CO., Ltd.
 ---
 
-![PRO GETTO LOGO](image/PRO_GETTO_LOGO.png)
+<img src = "image/PRO_GETTO_LOGO.png" width = "50%"
 
 ## 会社概要
 
